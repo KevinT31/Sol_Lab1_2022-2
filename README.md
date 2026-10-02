@@ -1,19 +1,51 @@
+<div align="center">
+
 # C++ Programming Exercises
 
-Academic repository containing C++ exercises and small projects developed as part of introductory programming coursework.
+### Academic Archive · Introductory C++ · Visual Studio
+
+</div>
+
+---
+
+## About This Repository
+
+This repository contains early C++ coursework and small programming exercises developed during introductory university programming work.
+
+It is intentionally kept public as an **academic archive**, not as a production application or a representative example of my current engineering level.
 
 ## Contents
 
-- Matrix exercises
-- Laboratory exercises
-- Small Visual Studio projects
-- Practice with basic C++ structures and problem solving
+- matrix exercises
+- laboratory exercises
+- small Visual Studio projects
+- practice with C++ syntax and data structures
+- basic algorithmic problem solving
 
-## Notes
-
-This repository is kept as an academic archive. It reflects early coursework and is not intended to represent a production application.
-
-## Tech
+## Technology
 
 - C++
 - Visual Studio
+- Visual Studio solution/project structure
+
+## Repository Layout
+
+The repository groups several independent exercises/projects rather than one deployable application.
+
+Typical folders include:
+
+- **Lab1_2022-2/**
+- **Matrices/**
+- **TercerProyecto/**
+
+## Why Keep It Public?
+
+Older coursework can still be useful as a record of progression.
+
+For current work, see the projects highlighted in my [GitHub profile](https://github.com/KevinT31).
+
+---
+
+### Repository classification
+
+**Academic archive · historical coursework · not a production project**
